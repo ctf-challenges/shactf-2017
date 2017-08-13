@@ -1,0 +1,1 @@
+Our abuse desk received an mail that someone from our network has hacked their company. With their help we found some suspected traffic in our network logs, but we can't find what exactly has happened. Can you help us to catch the culprit?
